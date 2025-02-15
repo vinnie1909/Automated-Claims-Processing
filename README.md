@@ -1,2 +1,4 @@
 # Automated-Claims-Processing
 Automated Claims Processing using Amazon Bedrock
+This example demonstrates the use of Amazon Bedrock Data Automation and Amazon Bedrock Agents multi-agent collaboration with its built-in Routing Classifier feature. The example provides an end-to-end IDP/Fraud Detection solution - including  Document intake/classification/extraction,and  Fraud detection to assist the adjudication workflow of a typical FSI insurance claims processing workflow. Further, by  simply enabling that mode for your supervisor, Bedrock automatically routes to the correct collaborating sub-agent using LLM intent classification optimized to route with sub-second latency. In our example, we have 3 collaborators: one for general claim questions, one for handling conversations about existing claims, and another for dealing with New claims.
+
