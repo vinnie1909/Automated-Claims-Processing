@@ -20,4 +20,8 @@ In the following sections we would run through the process to setup the AWS reso
 # Import Remote Libraries
 First, let's import the necessary libraries.
 
+# Create S3 Buckets
+
+# S3 Bucket to serve as input for evidence of coverage documents
+
 We'll use the us-west-2 region and create the boto3 clients for the required AWS services
